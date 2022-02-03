@@ -4,7 +4,7 @@
   "description": "Test app to daploy on Heroku",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon src/app.js",
+    "start": "src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
